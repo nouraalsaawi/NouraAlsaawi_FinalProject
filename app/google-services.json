@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591497130894",
+    "project_id": "nouraalsaawi-s-project",
+    "storage_bucket": "nouraalsaawi-s-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591497130894:android:6beef072c425e4f369aadf",
+        "android_client_info": {
+          "package_name": "com.example.nouraalsaawisproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591497130894-2nd7oghuois7r7eeo7g5j4tsufi4t21h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSG2_gCU0x0G-4iNb1qeRF0Nf2A6IElfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591497130894-2nd7oghuois7r7eeo7g5j4tsufi4t21h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
